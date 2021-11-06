@@ -30,6 +30,5 @@ setuptools.setup(
         "numpy",
         "pandas",
         "joblib",
-        "matplotlib",
     ]
 )    
